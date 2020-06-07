@@ -24,7 +24,7 @@ Now that the data was ready to be processed by the model I trained three differe
 
 The three models I trained included a base model (model 1), a model with an increase in the amount of neurons (model 2), and a model with an increased dropout (model 3). After training each of the models here were the following accuracies:
 
-![joined](C:\Users\alida\OneDrive\Desktop\Stoicism NLP\results\joined.png)
+![alt text](https://github.com/Danial-Hussain/Stoic_NLP/blob/master/results/joined.png "Results")
 
 Out of all the models Model 2, the model with more neurons, performed slightly better than the rest.
 
